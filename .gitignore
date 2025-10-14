@@ -1,0 +1,67 @@
+# ---- JetBrains IDEs ----
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# ---- Jupyter Notebook ----
+.ipynb_checkpoints/
+
+# ---- OS-specific files ----
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ---- Logs ----
+*.log
+
+# ---- VS Code ----
+.vscode/
+
+# ---- Distribution / packaging ----
+build/
+dist/
+*.egg-info/
+.eggs/
+*.whl
+*.tar.gz
+
+# ---- Temporary files ----
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# ---- Pytest cache ----
+.pytest_cache/
+
+# ---- Coverage reports ----
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
