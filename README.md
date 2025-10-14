@@ -132,8 +132,3 @@ Skylit brings ML-powered weather detection to your desktop in a simple and inter
 For questions, issues, or contributions, please open an issue on GitHub or contact the contributors.
 
 Thank you for using **Skylit** 
-
-Do you want me to do that?
-
-
-
