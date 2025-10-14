@@ -132,3 +132,13 @@ Skylit brings ML-powered weather detection to your desktop in a simple and inter
 For questions, issues, or contributions, please open an issue on GitHub or contact the contributors.
 
 Thank you for using **Skylit** 
+
+---
+
+## License
+
+MIT License
+Copyright (c) 2025 Deepan Sai
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
