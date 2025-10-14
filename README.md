@@ -135,10 +135,11 @@ Thank you for using **Skylit**
 
 ---
 
-## License
+## LICENSE
 
 MIT License
 Copyright (c) 2025 Deepan Sai
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
 
