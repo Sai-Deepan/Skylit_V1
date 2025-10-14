@@ -1,0 +1,4 @@
+0 Dew
+1 Fog
+2 Rain
+3 Snow
