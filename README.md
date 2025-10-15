@@ -64,7 +64,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/Skylit.git
+   git clone https://github.com/Sai-Deepan/Skylit_V1
    cd Skylit
    ```
 
@@ -141,5 +141,6 @@ MIT License
 Copyright (c) 2025 Deepan Sai
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
 
 
